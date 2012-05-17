@@ -1,0 +1,12 @@
+settings = {
+	orientation =
+	{
+	    -- PICK ONE to force device orientation that you wish to test
+		--default = "landscapeRight",
+		default = "portrait",
+
+	},
+
+
+}
+
